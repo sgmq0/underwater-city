@@ -1,6 +1,22 @@
 # Final Project!
 
-This is it! The culmination of your procedural graphics experience this semester. For your final project, we'd like to give you the time and space to explore a topic of your choosing. You may choose any topic you please, so long as you vet the topic and scope with an instructor or TA. We've provided some suggestions below. The scope of your project should be roughly 1.5 homework assignments). To help structure your time, we're breaking down the project into 4 milestones:
+## Design Doc
+[Click here to view the design doc!](https://docs.google.com/document/d/1dWmwpq-6FkHq4MmlyaFJkvPfyQh6L1r4fYkhGaTlGOI/edit?usp=sharing)
+
+For this project, we want to explore tools like Unreal Engine and Houdini to create a procedurally generated underwater environment. We were primarily inspired by Atlantis concept art made by various artists. 
+
+**Specifications:**
+- Different styles of procedural buildings; Greek-inspired architecture
+- Big landmarks such as coliseums
+- Breaking simulations on architecture
+- City structure with walkways
+- Niagara system fish flocks
+- Different fish such as jellyfish, stingray, sharks, etc.
+- Ornaments like benches, streetlights, etc.
+- L system kelp & coral
+- Water caustics
+- Procedural materials: Mossy & damaged marble; Sand w/ starfish, barnacles, fossils etc.
+
 
 ## Project planning: Design Doc (due 11/6)
 Before submitting your first milestone, _you must get your project idea and scope approved by Rachel, Adam or a TA._
