@@ -47,6 +47,20 @@ Here's another draft for a pillar tool that I plan on using in the next mileston
 ![image](https://github.com/user-attachments/assets/77f1aec9-32e5-4b54-8dd8-43678d9b591c)
 
 
+## Neha's Milestone 1
+
+For the first milestone, I followed along with this <a href="https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/" />tutorial</a> about PDG's in Houdini. This tutorial went over how to construct a stereotypical grid-based city using Houdini PDG's. In order to follow our Atlantis theme, rather than a grid, we used two circles that were broken up by different Voronoi fractures. The bigger voronoi fracture created the overall layout of the city, while the smaller voronoi fracture further split the larger shape and created smaller streets and tiles on which to place our buildings/structures. 
+
+(add image of the city grid)
+
+The process of creating buildings on the tiles was done via a topnet. Which can be seen here:
+
+Here is a picture of the buildings in our city grid! 
+
+I also made some additional assets (that are not yet in our city): 
+Lamppost: 
+Window (from Homework 3): 
+
 ## Milestone 1: Implementation part 1 (due 11/13)
 Begin implementing your engine! Don't worry too much about polish or parameter tuning -- this week is about getting together the bulk of your generator implemented. By the end of the week, even if your visuals are crude, the majority of your generator's functionality should be done.
 
