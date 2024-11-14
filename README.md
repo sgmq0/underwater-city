@@ -52,7 +52,6 @@ Here's another draft for a pillar tool that I plan on using in the next mileston
 For the first milestone, I followed along with this <a href="https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/" />tutorial</a> about PDG's in Houdini. This tutorial went over how to construct a stereotypical grid-based city using Houdini PDG's. In order to follow our Atlantis theme, rather than a grid, we used two circles that were broken up by different Voronoi fractures. The bigger voronoi fracture created the overall layout of the city, while the smaller voronoi fracture further split the larger shape and created smaller streets and tiles on which to place our buildings/structures. 
 
 <img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20212405.png?raw=true" />
-<img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20203454.png?raw=true" />
 
 The process of creating buildings on the tiles was done via a topnet. Which can be seen here:
 
