@@ -70,7 +70,7 @@ Lamppost:
 
 Window (from Homework 3): 
 
-<img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20213020.png?raw=true" />
+<img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20222632.png?raw=true" />
 
 ## Milestone 1: Implementation part 1 (due 11/13)
 Begin implementing your engine! Don't worry too much about polish or parameter tuning -- this week is about getting together the bulk of your generator implemented. By the end of the week, even if your visuals are crude, the majority of your generator's functionality should be done.
