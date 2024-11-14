@@ -60,6 +60,7 @@ The process of creating buildings on the tiles was done via a topnet. Which can 
 Here is a picture of the buildings in our city grid! 
 
 I also made some additional assets (that are not yet in our city): 
+
 Lamppost: 
 <img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20173257.png?raw=true" />
 
