@@ -56,6 +56,7 @@ For the first milestone, I followed along with this <a href="https://www.sidefx.
 The process of creating buildings on the tiles was done via a topnet. Which can be seen here:
 
 <img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20213153.png?raw=true" />
+<img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20203454.png?raw=true" />
 
 Here is a picture of the buildings in our city grid! 
 
