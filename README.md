@@ -95,10 +95,15 @@ https://github.com/user-attachments/assets/73a48263-dff8-4f6e-a5d7-031990f8ea78
 
 I'll probably also add lots to the more distant parts of the city, as well as include Neha's awesome assets in the house generation! After that, all that's left is the environment, rendering wizardry and texturing. 
 
-## Milestone 2: Implementation part 2 (due 11/25)
-We're over halfway there! This week should be about fixing bugs and extending the core of your generator. Make sure by the end of this week _your generator works and is feature complete._ Any core engine features that don't make it in this week should be cut! Don't worry if you haven't managed to exactly hit your goals. We're more interested in seeing proof of your development effort than knowing your planned everything perfectly. 
+###Neha's Milestone 2
 
-Put all your code in your forked repository.
+Unfortunately, I did not make as much progress as I had hoped due to being away at a conference (my apologies, Ray : ( )), but I plan on getting more things done during break! 
+
+I mainly worked on some additional asset creation:
+
+
+I will focus on adding more vegetation (like coral, perhaps) and fish! I will be modeling and rigging a shark, which will be fun. 
+
 
 Submission: Add a new section to your README titled: Milestone #3, which should include
 - written description of progress on your project goals. If you haven't hit all your goals, what did you have to cut and why? 
