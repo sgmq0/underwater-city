@@ -102,6 +102,9 @@ Unfortunately, I did not make as much progress as I had hoped due to being away 
 I mainly worked on some additional asset creation:
 
 
+https://github.com/user-attachments/assets/db23a7e5-a1ae-4f7c-8aa1-59f4b7e22f44
+
+
 I will focus on adding more vegetation (like coral, perhaps) and fish! I will be modeling and rigging a shark, which will be fun. 
 
 
