@@ -102,6 +102,7 @@ Unfortunately, I did not make as much progress as I had hoped due to being away 
 I mainly worked on some additional asset creation:
 
 ![img](https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-16%20160504.png?raw=true)
+
 https://github.com/user-attachments/assets/db23a7e5-a1ae-4f7c-8aa1-59f4b7e22f44
 
 (The kelp was created with the help of this tutorial series: https://www.youtube.com/watch?v=c8vst8202dI&t=236s ) 
