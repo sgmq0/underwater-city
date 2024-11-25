@@ -72,15 +72,29 @@ Window (from Homework 3):
 
 <img src="https://github.com/sgmq0/underwater-city/blob/main/Screenshot%202024-11-13%20222632.png?raw=true" />
 
-## Milestone 1: Implementation part 1 (due 11/13)
-Begin implementing your engine! Don't worry too much about polish or parameter tuning -- this week is about getting together the bulk of your generator implemented. By the end of the week, even if your visuals are crude, the majority of your generator's functionality should be done.
+## Milestone 2: Implementation part 2
 
-Put all your code in your forked repository.
+### Ray's Milestone 2
+Although I originally planned to model some fish and create the materials this week, I actually spent all of it working on the house geometry (and offloaded the fish models to Neha, sorry...). Right now, the houses are built off voronoi cells, but Elyssa suggested that I use labs subdivision to create more rectangular lots which I think would be much easier to work with. 
 
-Submission: Add a new section to your README titled: Milestone #1, which should include
-- written description of progress on your project goals. If you haven't hit all your goals, what's giving you trouble?
-- Examples of your generators output so far
-We'll check your repository for updates. No need to create a new pull request.
+This week I realized a pretty big thing I didn't like about the scene, which was that scale-wise, it felt more like a "village" than a town. So I also expanded on the city structure by giving it some sick walls to add scale to the scene. 
+
+![image](https://github.com/user-attachments/assets/2481412c-f5fe-4826-bb27-f2a681ef5c2e)
+![image](https://github.com/user-attachments/assets/b3ae2248-f0c0-4c64-8e34-637ce78661e0)
+
+Next week I'll refactor the house-generating code to have it work with the new rectangular lots. Here's what the houses look like currently (without Neha's assets). They're not included yet so all you see are empty lots, but they'll be added in the final output.
+
+![image](https://github.com/user-attachments/assets/dc979109-61b0-4dda-983e-0df99e2885e7)
+
+Finally, I threw the model into Unreal to do some lighting and rendering stuff. I created a distance fog material to make it look more like it's underwater. Here's a demo video as well as a screenshot!
+
+https://github.com/user-attachments/assets/73a48263-dff8-4f6e-a5d7-031990f8ea78
+
+![image](https://github.com/user-attachments/assets/3660a262-a3fc-4df2-a755-29552eae22da)
+
+
+I'll probably also add lots to the more distant parts of the city, as well as include Neha's awesome assets in the house generation! After that, all that's left is the environment, rendering wizardry and texturing. 
+
 ## Milestone 2: Implementation part 2 (due 11/25)
 We're over halfway there! This week should be about fixing bugs and extending the core of your generator. Make sure by the end of this week _your generator works and is feature complete._ Any core engine features that don't make it in this week should be cut! Don't worry if you haven't managed to exactly hit your goals. We're more interested in seeing proof of your development effort than knowing your planned everything perfectly. 
 
