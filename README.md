@@ -138,3 +138,7 @@ I used the following references to create the whale:
 I used the following references to create the shark: 
 - https://www.istockphoto.com/photo/great-white-shark-isolated-gm863397250-143145391
 - https://www.alamy.com/great-white-shark-illustration-on-white-background-image459614990.html?imageid=11ECBDD0-B6A5-497A-8318-5DB602B985E7&p=1250975&pn=1&searchId=6c25fd81538205d40c7e6285a16d448f&searchtype=0
+
+I used the following references to create the clownfish: 
+- https://www.nationalgeographic.com/animals/fish/facts/clownfish
+- https://www.shutterstock.com/image-photo/two-clown-fishes-saltwater-aquarium-top-218322091
