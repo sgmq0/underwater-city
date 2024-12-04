@@ -123,16 +123,36 @@ There is also now a procedural coral generator (which uses an l-system):
 ![Screenshot 2024-12-01 153708](https://github.com/user-attachments/assets/85464cd1-769a-4359-a653-fdfedead62b1)
 
 
-## Final submission (due 12/2)
-Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
+## Final submission 
 
-Submission:
-- Push all your code / files to your repository
-- Come to class ready to present your finished project
-- Update your README with two sections 
-  - final results with images and a live demo if possible
-  - post mortem: how did your project go overall? Did you accomplish your goals? Did you have to pivot?
+### Breakdown of our work 
+Can be found here: https://docs.google.com/presentation/d/1kqFuRXgb6lPP4pP7EWAIM0FR_dFDIZgKtF1_NOb8s4E/edit?usp=sharing
 
+Here is a quick summary of what we accomplished: 
+
+We first created a city layout for our buildings to be placed on. This layout was created using PDGs in Houdini. We followed the official PDG tutorial and modified it to our liking. We mainly added logic to create the grid procedurally (the original tutorial used a PNG). Our logic involves using a Voronoi fracture to create the general shape and then lots subdivision to ensure we still have a city or town-like structure. 
+
+Ray designed three greek-inspired procedural buildings to populate the city. 
+
+Ray also designed a greek-inspired wall with various towers that encircles the city. 
+
+Neha created some additional assets for the city/general atmosphere of an underwater environment. These included procedural assets (coral, kelp, lamppost, building window, building door) and non-procedural assets (whale, shark, clownfish, bench). The procedural assets are all parameterized. 
+
+Then, we both created procedural textures using Substance 3D Designer. These materials include: sand, marble, stone, roof tiles, and aged wood. 
+
+Finally, our project came together in Unreal! 
+
+### Final Results 
+
+Demo here 
+
+Perhaps additional images here 
+
+### Post-Mortem 
+
+We are happy with what we accomplished overall for this project! We fulfilled most of our initial objectives and have a finished result that we are both very proud of. It was also a fun experience to try new software and explore new workflows in software we are comfortable with. (In Neha's case, I have never used a substance designer before, and I definitely want to explore it more in the future.) 
+
+For future work or aspects that we wish we had time to include, we originally had a vision of a ruined or abandoned city. However, the destruction sims would have been beyond the capability of our computers (sadly). We were also hoping to game-ify the project slightly to allow a player to be able to traverse our city and possibly interact with various elements. We also hoped to have a 'town center' that would be a coliseum. Our PDG does allow for a town center; however, we unfortunately did not have the time to create the coliseum (either procedurally or non-procedurally). We additionally decided not to rig our fish in order to focus on polishing/fine-tuning other aspects of our project. 
 
 ### Attribution 
 
@@ -142,7 +162,13 @@ https://www.youtube.com/watch?v=T2Xmff4WqPc
 Tutorial for coral:
 https://www.youtube.com/watch?v=h8cEtur8_Sw&t=3s
 
-Tutorial for procedural sand:
+Tutorial for procedural wood texture:
+https://www.adobe.com/learn/substance-3d-designer/web/creating-old-wood-planks-in-substance-3d-designer?locale=en&learnIn=1
+
+Tutorial for procedural marble texture:
+https://www.youtube.com/watch?v=zGOLLSQnvYo
+
+Tutorial for procedural sand texture:
 https://www.youtube.com/watch?v=oPauF1fwZuU
 
 References to create stone bench:
