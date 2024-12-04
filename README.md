@@ -109,6 +109,20 @@ https://github.com/user-attachments/assets/db23a7e5-a1ae-4f7c-8aa1-59f4b7e22f44
 
 I will focus on adding more vegetation (like coral, perhaps) and fish! I will be modeling and rigging a shark, which will be fun. 
 
+### Ray's Milestone 3
+
+This week I finalized the house condtruction and city generator, implementing Neha's wonderful assets. I also did a bunch of UV unwrapping.
+
+I created three different types of houses to give the scene visual variety!
+
+I also created a roof tile and stone block material for the houses.
+
+Actually, the most important part of this week's tasks was to get everything into Unreal. I already got the pipeline figured out in in the last milestone so I didn't run into many major issues, but I found it really tedious...
+
+In Unreal, I messed with more of the shading, applied the textures, made niagara system fish schools, and planted foliage to create a niceish scene.
+
+(insert images later)
+
 ### Neha's Milestone 3
 
 I added some additional elements to our city! 
@@ -130,11 +144,11 @@ Can be found here: https://docs.google.com/presentation/d/1kqFuRXgb6lPP4pP7EWAIM
 
 Here is a quick summary of what we accomplished: 
 
-We first created a city layout for our buildings to be placed on. This layout was created using PDGs in Houdini. We followed the official PDG tutorial and modified it to our liking. We mainly added logic to create the grid procedurally (the original tutorial used a PNG). Our logic involves using a Voronoi fracture to create the general shape and then lots subdivision to ensure we still have a city or town-like structure. 
+We first created a city layout for our buildings to be placed on. This layout was created using PDGs in Houdini. We followed the official PDG tutorial and modified it to our liking. We mainly added logic to create the grid procedurally (the original tutorial used a PNG). 
 
-Ray designed three greek-inspired procedural buildings to populate the city. 
+Our logic involves using a Voronoi fracture to create the general shape and then lots subdivision to ensure we still have a city or town-like structure, but with an added degree of organicness.
 
-Ray also designed a greek-inspired wall with various towers that encircles the city. 
+Ray designed three greek-inspired procedural buildings to populate the city, which build off of the generated lots, as well as a wall around the city's perimeter. 
 
 Neha created some additional assets for the city/general atmosphere of an underwater environment. These included procedural assets (coral, kelp, lamppost, building window, building door) and non-procedural assets (whale, shark, clownfish, bench). The procedural assets are all parameterized. 
 
@@ -150,7 +164,7 @@ Perhaps additional images here
 
 ### Post-Mortem 
 
-We are happy with what we accomplished overall for this project! We fulfilled most of our initial objectives and have a finished result that we are both very proud of. It was also a fun experience to try new software and explore new workflows in software we are comfortable with. (In Neha's case, I have never used a substance designer before, and I definitely want to explore it more in the future.) 
+We are happy with what we accomplished overall for this project! We fulfilled most of our initial objectives and have a finished result that we are both very proud of. It was also a fun experience to try new software and explore new workflows in software we are comfortable with. (In Neha's case, I have never used a substance designer before, and I definitely want to explore it more in the future.) (In Ray's case, I'm pretty new to doing lighting and rendering in Unreal.)
 
 For future work or aspects that we wish we had time to include, we originally had a vision of a ruined or abandoned city. However, the destruction sims would have been beyond the capability of our computers (sadly). We were also hoping to game-ify the project slightly to allow a player to be able to traverse our city and possibly interact with various elements. We also hoped to have a 'town center' that would be a coliseum. Our PDG does allow for a town center; however, we unfortunately did not have the time to create the coliseum (either procedurally or non-procedurally). We additionally decided not to rig our fish in order to focus on polishing/fine-tuning other aspects of our project. 
 
