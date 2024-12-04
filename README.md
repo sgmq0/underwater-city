@@ -121,7 +121,13 @@ Actually, the most important part of this week's tasks was to get everything int
 
 In Unreal, I messed with more of the shading, applied the textures, made niagara system fish schools, and planted foliage to create a niceish scene.
 
-(insert images later)
+![image](https://github.com/user-attachments/assets/b36dc66e-1077-4600-b396-f7a8b54c9889)
+![image](https://github.com/user-attachments/assets/2df5d925-6547-45f6-b294-bf935f640032)
+![image](https://github.com/user-attachments/assets/624486f8-58e7-4756-abff-329ae7c1597c)
+![image](https://github.com/user-attachments/assets/f0d74ab5-2b63-4829-af32-0625102da761)
+![image](https://github.com/user-attachments/assets/f179c9db-4ca2-40ca-9aa5-28907b55a967)
+![image](https://github.com/user-attachments/assets/849db1b5-7e36-46af-a595-9cfd643a1241)
+
 
 ### Neha's Milestone 3
 
