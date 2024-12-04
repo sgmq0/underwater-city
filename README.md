@@ -136,16 +136,26 @@ Submission:
 
 ### Attribution 
 
-I used the following tutorial for the kelp:
+Tutorial for the kelp:
+https://www.youtube.com/watch?v=T2Xmff4WqPc
 
-I used the following references to create the whale: 
+Tutorial for coral:
+https://www.youtube.com/watch?v=h8cEtur8_Sw&t=3s
+
+Tutorial for procedural sand:
+https://www.youtube.com/watch?v=oPauF1fwZuU
+
+References to create stone bench:
+https://p3dm.ru/files/furniture/other_furniture/11266-stone-bench.html
+
+References to create the whale: 
 - https://uk.pinterest.com/pin/366832332142578260/
 - https://stock.adobe.com/images/blue-big-whale-top-view-watercolor-painting/146278230
 
-I used the following references to create the shark: 
+References to create the shark: 
 - https://www.istockphoto.com/photo/great-white-shark-isolated-gm863397250-143145391
 - https://www.alamy.com/great-white-shark-illustration-on-white-background-image459614990.html?imageid=11ECBDD0-B6A5-497A-8318-5DB602B985E7&p=1250975&pn=1&searchId=6c25fd81538205d40c7e6285a16d448f&searchtype=0
 
-I used the following references to create the clownfish: 
+References to create the clownfish: 
 - https://www.nationalgeographic.com/animals/fish/facts/clownfish
 - https://www.shutterstock.com/image-photo/two-clown-fishes-saltwater-aquarium-top-218322091
