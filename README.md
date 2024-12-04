@@ -109,12 +109,19 @@ https://github.com/user-attachments/assets/db23a7e5-a1ae-4f7c-8aa1-59f4b7e22f44
 
 I will focus on adding more vegetation (like coral, perhaps) and fish! I will be modeling and rigging a shark, which will be fun. 
 
-Submission: Add a new section to your README titled: Milestone #3, which should include
-- written description of progress on your project goals. If you haven't hit all your goals, what did you have to cut and why? 
-- Detailed output from your generator, images, video, etc.
-We'll check your repository for updates. No need to create a new pull request.
+### Neha's Milestone 3
 
-Come to class on the due date with a WORKING COPY of your project. We'll be spending time in class critiquing and reviewing your work so far.
+I added some additional elements to our city! 
+The following were not procedurally made but rather modeled and textured using blender and zbrush:
+![Screenshot 2024-11-30 235545](https://github.com/user-attachments/assets/d14e8d9a-1f5c-488b-a328-9d63985e707a)
+![Screenshot 2024-11-29 214127](https://github.com/user-attachments/assets/bf754073-cc05-4f48-b8b6-9b65cf8e933b)
+![Screenshot 2024-11-29 151405](https://github.com/user-attachments/assets/aaee108c-f23c-45a0-90bf-e5227a596913)
+![Screenshot 2024-12-03 150300](https://github.com/user-attachments/assets/ce875db1-b44e-4340-8f2b-b2fb34a0b81d)
+
+
+There is also now a procedural coral generator (which uses an l-system):
+![Screenshot 2024-12-01 153708](https://github.com/user-attachments/assets/85464cd1-769a-4359-a653-fdfedead62b1)
+
 
 ## Final submission (due 12/2)
 Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
